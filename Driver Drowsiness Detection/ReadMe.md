@@ -1,1 +1,1 @@
-
+In Driver Drowsiness Detection project, we can identify whether a driver is drowsy or not. I have used haar cascade classifier in order to detect the face and eyes of the driver. Convolutional Neural Network is used as the main model in this project. We can identify drowsiness of a driver from both an image and a video.
