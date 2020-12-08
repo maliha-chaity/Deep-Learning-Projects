@@ -135,7 +135,7 @@ results={
 }
 from PIL import Image
 import numpy as np
-im=Image.open(r"C:\Users\HP\Desktop\Deep Learning\Deep Learning\image_classification_cifar10\single_prediction\14.jpg")
+im=Image.open(r"C:\Users\HP\Desktop\Deep Learning\Deep Learning\Image Classification CIFAR10\Single Prediction\14.jpg")
 # the input image is required to be in the shape of dataset, i.e (32,32,3)
  
 im=im.resize((32,32))
